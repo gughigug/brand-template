@@ -499,8 +499,7 @@ export default function BrandLaunchShell() {
                     product designer e dev.
                   </p>
                   <p className="text-slate-400 text-xs">
-                    Tradotto: puoi riciclare questa struttura per più clienti
-                    senza dare la sensazione di “tema riusato”.
+                  
                   </p>
                 </div>
               </div>
